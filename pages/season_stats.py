@@ -64,7 +64,7 @@ if not season_data.is_empty():
         season_data, stat_type=selected_stat_type, min_games=min_games
     ).with_columns(
         # Round all int and float columns to 3 decimal place
-        (pl.selectors.decimal() | pl.selectors.float()).round(4)
+        (pl.selectors.float()).round(4)
     )
 
     if stats_data.is_empty():
