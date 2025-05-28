@@ -1,63 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2025-05-27 14:47:30",
+    "generated_at": "2025-05-28 12:06:37",
     "model": "Gradient Boosting",
     "version": "1.0",
-    "game_count": 7
+    "game_count": 6
   },
   "games": [
-    {
-      "game_id": "0042400304",
-      "date": "2025-05-27",
-      "teams": {
-        "home": {
-          "abbreviation": "IND",
-          "name": "Indiana Pacers",
-          "win_probability": 0.181
-        },
-        "away": {
-          "abbreviation": "NYK",
-          "name": "New York Knicks",
-          "win_probability": 0.819
-        }
-      },
-      "prediction": {
-        "winner": "NYK",
-        "winner_name": "New York Knicks",
-        "confidence": 0.819
-      },
-      "matchup_stats": {
-        "h2h_games_played": 5,
-        "h2h_win_pct": 0.6,
-        "days_since_last_matchup": 2
-      }
-    },
-    {
-      "game_id": "0042400305",
-      "date": "2025-05-29",
-      "teams": {
-        "home": {
-          "abbreviation": "NYK",
-          "name": "New York Knicks",
-          "win_probability": 0.102
-        },
-        "away": {
-          "abbreviation": "IND",
-          "name": "Indiana Pacers",
-          "win_probability": 0.898
-        }
-      },
-      "prediction": {
-        "winner": "IND",
-        "winner_name": "Indiana Pacers",
-        "confidence": 0.898
-      },
-      "matchup_stats": {
-        "h2h_games_played": 5,
-        "h2h_win_pct": 0.4,
-        "days_since_last_matchup": 2
-      }
-    },
     {
       "game_id": "0042400306",
       "date": "2025-05-31",
@@ -65,23 +13,23 @@
         "home": {
           "abbreviation": "IND",
           "name": "Indiana Pacers",
-          "win_probability": 0.181
+          "win_probability": 0.803
         },
         "away": {
           "abbreviation": "NYK",
           "name": "New York Knicks",
-          "win_probability": 0.819
+          "win_probability": 0.197
         }
       },
       "prediction": {
-        "winner": "NYK",
-        "winner_name": "New York Knicks",
-        "confidence": 0.819
+        "winner": "IND",
+        "winner_name": "Indiana Pacers",
+        "confidence": 0.803
       },
       "matchup_stats": {
         "h2h_games_played": 5,
         "h2h_win_pct": 0.6,
-        "days_since_last_matchup": 2
+        "days_since_last_matchup": 1
       }
     },
     {
@@ -91,23 +39,49 @@
         "home": {
           "abbreviation": "NYK",
           "name": "New York Knicks",
-          "win_probability": 0.102
+          "win_probability": 0.544
         },
         "away": {
           "abbreviation": "IND",
           "name": "Indiana Pacers",
-          "win_probability": 0.898
+          "win_probability": 0.456
         }
       },
       "prediction": {
-        "winner": "IND",
-        "winner_name": "Indiana Pacers",
-        "confidence": 0.898
+        "winner": "NYK",
+        "winner_name": "New York Knicks",
+        "confidence": 0.544
       },
       "matchup_stats": {
         "h2h_games_played": 5,
         "h2h_win_pct": 0.4,
-        "days_since_last_matchup": 2
+        "days_since_last_matchup": 1
+      }
+    },
+    {
+      "game_id": "0042400305",
+      "date": "2025-05-29",
+      "teams": {
+        "home": {
+          "abbreviation": "NYK",
+          "name": "New York Knicks",
+          "win_probability": 0.544
+        },
+        "away": {
+          "abbreviation": "IND",
+          "name": "Indiana Pacers",
+          "win_probability": 0.456
+        }
+      },
+      "prediction": {
+        "winner": "NYK",
+        "winner_name": "New York Knicks",
+        "confidence": 0.544
+      },
+      "matchup_stats": {
+        "h2h_games_played": 5,
+        "h2h_win_pct": 0.4,
+        "days_since_last_matchup": 1
       }
     },
     {
@@ -117,23 +91,23 @@
         "home": {
           "abbreviation": "OKC",
           "name": "Oklahoma City Thunder",
-          "win_probability": 0.672
+          "win_probability": 0.749
         },
         "away": {
           "abbreviation": "MIN",
           "name": "Minnesota Timberwolves",
-          "win_probability": 0.328
+          "win_probability": 0.251
         }
       },
       "prediction": {
         "winner": "OKC",
         "winner_name": "Oklahoma City Thunder",
-        "confidence": 0.672
+        "confidence": 0.749
       },
       "matchup_stats": {
         "h2h_games_played": 5,
         "h2h_win_pct": 0.6,
-        "days_since_last_matchup": 1
+        "days_since_last_matchup": 2
       }
     },
     {
@@ -143,23 +117,23 @@
         "home": {
           "abbreviation": "MIN",
           "name": "Minnesota Timberwolves",
-          "win_probability": 0.477
+          "win_probability": 0.397
         },
         "away": {
           "abbreviation": "OKC",
           "name": "Oklahoma City Thunder",
-          "win_probability": 0.523
+          "win_probability": 0.603
         }
       },
       "prediction": {
         "winner": "OKC",
         "winner_name": "Oklahoma City Thunder",
-        "confidence": 0.523
+        "confidence": 0.603
       },
       "matchup_stats": {
         "h2h_games_played": 5,
         "h2h_win_pct": 0.4,
-        "days_since_last_matchup": 1
+        "days_since_last_matchup": 2
       }
     },
     {
@@ -169,23 +143,23 @@
         "home": {
           "abbreviation": "OKC",
           "name": "Oklahoma City Thunder",
-          "win_probability": 0.672
+          "win_probability": 0.749
         },
         "away": {
           "abbreviation": "MIN",
           "name": "Minnesota Timberwolves",
-          "win_probability": 0.328
+          "win_probability": 0.251
         }
       },
       "prediction": {
         "winner": "OKC",
         "winner_name": "Oklahoma City Thunder",
-        "confidence": 0.672
+        "confidence": 0.749
       },
       "matchup_stats": {
         "h2h_games_played": 5,
         "h2h_win_pct": 0.6,
-        "days_since_last_matchup": 1
+        "days_since_last_matchup": 2
       }
     }
   ]
