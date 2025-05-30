@@ -57,58 +57,6 @@
         "h2h_win_pct": 0.4,
         "days_since_last_matchup": 1
       }
-    },
-    {
-      "game_id": "0042400316",
-      "date": "2025-05-30",
-      "teams": {
-        "home": {
-          "abbreviation": "MIN",
-          "name": "Minnesota Timberwolves",
-          "win_probability": 0.047
-        },
-        "away": {
-          "abbreviation": "OKC",
-          "name": "Oklahoma City Thunder",
-          "win_probability": 0.953
-        }
-      },
-      "prediction": {
-        "winner": "OKC",
-        "winner_name": "Oklahoma City Thunder",
-        "confidence": 0.953
-      },
-      "matchup_stats": {
-        "h2h_games_played": 5,
-        "h2h_win_pct": 0.2,
-        "days_since_last_matchup": 2
-      }
-    },
-    {
-      "game_id": "0042400317",
-      "date": "2025-06-01",
-      "teams": {
-        "home": {
-          "abbreviation": "OKC",
-          "name": "Oklahoma City Thunder",
-          "win_probability": 0.969
-        },
-        "away": {
-          "abbreviation": "MIN",
-          "name": "Minnesota Timberwolves",
-          "win_probability": 0.031
-        }
-      },
-      "prediction": {
-        "winner": "OKC",
-        "winner_name": "Oklahoma City Thunder",
-        "confidence": 0.969
-      },
-      "matchup_stats": {
-        "h2h_games_played": 5,
-        "h2h_win_pct": 0.8,
-        "days_since_last_matchup": 2
-      }
     }
   ]
 }
