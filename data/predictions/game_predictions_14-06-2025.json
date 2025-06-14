@@ -1,37 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2025-06-12 11:33:20",
-    "model": "Gradient Boosting",
+    "generated_at": "2025-06-14 13:24:30",
+    "model": "Random Forest",
     "version": "1.0",
-    "game_count": 4
+    "game_count": 3
   },
   "games": [
-    {
-      "game_id": "0042400404",
-      "date": "2025-06-13",
-      "teams": {
-        "home": {
-          "abbreviation": "IND",
-          "name": "Indiana Pacers",
-          "win_probability": 0.854
-        },
-        "away": {
-          "abbreviation": "OKC",
-          "name": "Oklahoma City Thunder",
-          "win_probability": 0.146
-        }
-      },
-      "prediction": {
-        "winner": "IND",
-        "winner_name": "Indiana Pacers",
-        "confidence": 0.854
-      },
-      "matchup_stats": {
-        "h2h_games_played": 5,
-        "h2h_win_pct": 0.4,
-        "days_since_last_matchup": 1
-      }
-    },
     {
       "game_id": "0042400405",
       "date": "2025-06-16",
@@ -39,18 +13,18 @@
         "home": {
           "abbreviation": "OKC",
           "name": "Oklahoma City Thunder",
-          "win_probability": 0.568
+          "win_probability": 0.607
         },
         "away": {
           "abbreviation": "IND",
           "name": "Indiana Pacers",
-          "win_probability": 0.432
+          "win_probability": 0.393
         }
       },
       "prediction": {
         "winner": "OKC",
         "winner_name": "Oklahoma City Thunder",
-        "confidence": 0.568
+        "confidence": 0.607
       },
       "matchup_stats": {
         "h2h_games_played": 5,
@@ -65,18 +39,18 @@
         "home": {
           "abbreviation": "IND",
           "name": "Indiana Pacers",
-          "win_probability": 0.854
+          "win_probability": 0.252
         },
         "away": {
           "abbreviation": "OKC",
           "name": "Oklahoma City Thunder",
-          "win_probability": 0.146
+          "win_probability": 0.748
         }
       },
       "prediction": {
-        "winner": "IND",
-        "winner_name": "Indiana Pacers",
-        "confidence": 0.854
+        "winner": "OKC",
+        "winner_name": "Oklahoma City Thunder",
+        "confidence": 0.748
       },
       "matchup_stats": {
         "h2h_games_played": 5,
@@ -91,18 +65,18 @@
         "home": {
           "abbreviation": "OKC",
           "name": "Oklahoma City Thunder",
-          "win_probability": 0.568
+          "win_probability": 0.607
         },
         "away": {
           "abbreviation": "IND",
           "name": "Indiana Pacers",
-          "win_probability": 0.432
+          "win_probability": 0.393
         }
       },
       "prediction": {
         "winner": "OKC",
         "winner_name": "Oklahoma City Thunder",
-        "confidence": 0.568
+        "confidence": 0.607
       },
       "matchup_stats": {
         "h2h_games_played": 5,
