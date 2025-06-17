@@ -1,37 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2025-06-14 13:24:30",
-    "model": "Random Forest",
+    "generated_at": "2025-06-17 13:52:41",
+    "model": "Gradient Boosting",
     "version": "1.0",
-    "game_count": 3
+    "game_count": 2
   },
   "games": [
-    {
-      "game_id": "0042400405",
-      "date": "2025-06-16",
-      "teams": {
-        "home": {
-          "abbreviation": "OKC",
-          "name": "Oklahoma City Thunder",
-          "win_probability": 0.607
-        },
-        "away": {
-          "abbreviation": "IND",
-          "name": "Indiana Pacers",
-          "win_probability": 0.393
-        }
-      },
-      "prediction": {
-        "winner": "OKC",
-        "winner_name": "Oklahoma City Thunder",
-        "confidence": 0.607
-      },
-      "matchup_stats": {
-        "h2h_games_played": 5,
-        "h2h_win_pct": 0.6,
-        "days_since_last_matchup": 1
-      }
-    },
     {
       "game_id": "0042400406",
       "date": "2025-06-19",
@@ -39,18 +13,18 @@
         "home": {
           "abbreviation": "IND",
           "name": "Indiana Pacers",
-          "win_probability": 0.252
+          "win_probability": 0.387
         },
         "away": {
           "abbreviation": "OKC",
           "name": "Oklahoma City Thunder",
-          "win_probability": 0.748
+          "win_probability": 0.613
         }
       },
       "prediction": {
         "winner": "OKC",
         "winner_name": "Oklahoma City Thunder",
-        "confidence": 0.748
+        "confidence": 0.613
       },
       "matchup_stats": {
         "h2h_games_played": 5,
@@ -65,18 +39,18 @@
         "home": {
           "abbreviation": "OKC",
           "name": "Oklahoma City Thunder",
-          "win_probability": 0.607
+          "win_probability": 0.746
         },
         "away": {
           "abbreviation": "IND",
           "name": "Indiana Pacers",
-          "win_probability": 0.393
+          "win_probability": 0.254
         }
       },
       "prediction": {
         "winner": "OKC",
         "winner_name": "Oklahoma City Thunder",
-        "confidence": 0.607
+        "confidence": 0.746
       },
       "matchup_stats": {
         "h2h_games_played": 5,
