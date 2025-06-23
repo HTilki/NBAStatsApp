@@ -94,7 +94,7 @@ if not season_data.is_empty():
         # Add season champion
         if selected_stat_type == "team":
             champion = get_season_champion(conn, selected_season)
-            if champion and selected_season != "2024-2025":
+            if champion:
                 st.success(f"NBA Champion: {champion['team_name']}", icon="🏆")
             else:
                 st.warning("No NBA champion for this season yet.")
